@@ -5428,6 +5428,11 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.0.tgz#0f37c3613c34fe6b37cd7f763a0d6293ab15c527"
   integrity sha512-GFMtL0vHkiBv9HluwNZTggSn/sCyEt9n02aM0dSAjGGyqyNlAyftYm4phPxdvCigG15JreC5biwxCgTAJZ7yAA==
 
+react-native-bundle-splitter@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-native-bundle-splitter/-/react-native-bundle-splitter-1.0.7.tgz#06638c626e2eac321dd920936c6ecb87569c84b3"
+  integrity sha512-4k+xR2cgYQVAejVTGu624+I5Vbxzu5fP9PUY2u5YTX7lgEj+clFUqHqBGImqPJ8yfYZ4AdrnDY7oD8W8AStKNg==
+
 react-native@0.61.5:
   version "0.61.5"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.61.5.tgz#6e21acb56cbd75a3baeb1f70201a66f42600bba8"
