@@ -1,14 +1,12 @@
 import React, { Component } from 'react';
 import { View, StyleSheet, Text } from 'react-native';
-import { Actions } from 'react-native-router-flux';
 
-class LoginContainer extends Component {
+class MainContainer extends Component {
     render() {
         return (
             <View  style={styles.container}>
                 <Text>{'Hello World!'}</Text>
-                <Text>{'Here is login.'}</Text>
-                <Text onPress={() => { Actions.push('Main'); }}>{'Go to main.'}</Text>
+                <Text>{'Here is main.'}</Text>
             </View>
         );
     }
@@ -23,4 +21,4 @@ const styles = StyleSheet.create({
     },
 });
 
-export default LoginContainer;
+export default MainContainer;
